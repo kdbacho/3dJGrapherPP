@@ -188,7 +188,7 @@
   <ItemGroup>
     <ClInclude Include="3dJGrapher++.h" />
     <ClInclude Include="3dJGrapher++Doc.h" />
-    <ClInclude Include="ClassView.h" />
+    <ClInclude Include="3dJGrapher++View.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="OutputWnd.h" />
     <ClInclude Include="PropDlg.h" />
@@ -200,7 +200,7 @@
   <ItemGroup>
     <ClCompile Include="3dJGrapher++.cpp" />
     <ClCompile Include="3dJGrapher++Doc.cpp" />
-    <ClCompile Include="ClassView.cpp" />
+    <ClCompile Include="3dJGrapher++View.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="OutputWnd.cpp" />
     <ClCompile Include="PropDlg.cpp" />

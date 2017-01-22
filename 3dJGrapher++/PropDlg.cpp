@@ -1,8 +1,8 @@
 #include "stdafx.h"
-#include "3djGrapher++.h"
-#include "3djGrapher++Doc.h"
+#include "3dJGrapher++.h"
+#include "3dJGrapher++Doc.h"
 #include "PropDlg.h"
-#include "ClassView.h"
+#include "3dJGrapher++View.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

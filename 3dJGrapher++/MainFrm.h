@@ -3,7 +3,7 @@
 //
 
 #pragma once
-#include "ClassView.h"
+#include "3dJGrapher++View.h"
 #include "OutputWnd.h"
 
 #if !defined(AFX_MAINFRM_H__582ED1C6_BB0C_48E4_9514_5116E08C9072__INCLUDED_)

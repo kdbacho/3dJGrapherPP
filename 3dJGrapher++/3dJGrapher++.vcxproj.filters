@@ -36,9 +36,6 @@
     <ClInclude Include="Resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ClassView.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="ViewTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -46,6 +43,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PropDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3dJGrapher++View.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -62,9 +62,6 @@
     <ClCompile Include="3dJGrapher++Doc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ClassView.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="ViewTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -72,6 +69,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PropDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3dJGrapher++View.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

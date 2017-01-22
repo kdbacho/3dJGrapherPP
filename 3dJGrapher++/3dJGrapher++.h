@@ -31,4 +31,4 @@ public:
 //{{AFX_INSERT_LOCATION}}
 #endif
 
-extern COpenGLApp theApp;
+//extern COpenGLApp theApp;
